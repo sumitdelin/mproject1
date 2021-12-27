@@ -14,7 +14,7 @@ public class Employee {
     String name;
 
     public Employee(int eid, String name) {
-        this.eid = eid;
+       
         this.name = name;
     }
     //sumit
