@@ -13,6 +13,7 @@ public class Employee {
     int eid;
     String name;
     String address;
+    String city;
     public Employee(int eid, String name) {
        
         this.name = name;
