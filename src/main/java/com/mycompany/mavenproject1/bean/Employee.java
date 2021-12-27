@@ -10,5 +10,6 @@ package com.mycompany.mavenproject1.bean;
  * @author kumar
  */
 public class Employee {
-    
+    int eid;
+    String name;    
 }
