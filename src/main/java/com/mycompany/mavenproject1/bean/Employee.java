@@ -18,6 +18,12 @@ public class Employee {
        
         this.name = name;
     }
-    //sumit
+	public String getCity() {
+		return city;
+	}
+	public void setCity(String city) {
+		this.city = city;
+	}
+    
     
 }
