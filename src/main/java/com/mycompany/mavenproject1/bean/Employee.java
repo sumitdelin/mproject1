@@ -24,6 +24,12 @@ public class Employee {
 	public void setCity(String city) {
 		this.city = city;
 	}
-    //here adding comments
+	public String getAddress() {
+		return address;
+	}
+	public void setAddress(String address) {
+		this.address = address;
+	}
+    
     
 }
